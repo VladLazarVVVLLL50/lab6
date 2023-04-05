@@ -2,7 +2,8 @@
 
 
 
-int main(){
+int main()
+{
 
 int v[100];
 Node *root=NULL;
